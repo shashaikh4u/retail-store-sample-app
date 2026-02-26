@@ -2,6 +2,8 @@
 
 <!-- GitOps Test: Multi-service deploy test - Cart -->
 
+echo 1
+
 | Language | Persistence     |
 | -------- | --------------- |
 | Java     | Amazon DynamoDB |
