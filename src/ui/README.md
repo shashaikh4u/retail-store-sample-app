@@ -2,7 +2,7 @@
 
 <!-- GitOps Test: Testing deploy-simple.yml workflow -->
 
-echo test2
+echo 2
 
 | Language | Persistence |
 | -------- | ----------- |
