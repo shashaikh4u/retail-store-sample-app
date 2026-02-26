@@ -2,6 +2,9 @@
 
 <!-- GitOps Test: Testing improved change detection workflow -->
 
+echo test1
+
+
 | Language | Persistence |
 | -------- | ----------- |
 | Node     | Redis       |
