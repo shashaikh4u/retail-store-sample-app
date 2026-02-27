@@ -2,7 +2,7 @@
 
 <!-- GitOps Test: Multi-service deploy test - Cart -->
 
-echo 100
+echo 201
 
 | Language | Persistence     |
 | -------- | --------------- |

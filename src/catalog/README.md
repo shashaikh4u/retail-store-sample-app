@@ -2,7 +2,7 @@
 
 <!-- GitOps Test: Final workflow validation -->
 
-echo 2
+echo 201
 
 | Language | Persistence |
 | -------- | ----------- |
